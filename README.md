@@ -8,7 +8,7 @@ I like build some application.
 | --- | --- | --- |
 | rrvState | https://github.com/callme-taota/rrvState | A Typescript fontend state management |
 | NextCloudMusic | https://github.com/callme-taota/NextCloudMusic | A third-party client for NetEaseCloudMusic |
-| CloudBox | https://github.com/callme-taota/CloudBox | A windows 11 style like application  |
+| CloudBox | https://github.com/callme-taota/CloudBox | A windows 11 style like application template  |
 
 # Reach me 📫
 [My Website](http://www.callmetaota.fun/)
